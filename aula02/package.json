@@ -10,6 +10,6 @@
   "author": "Rafael Jaques <rafael@phpit.com.br>",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^1.4.4"
+    "electron": "^9.1.0"
   }
 }
